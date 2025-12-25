@@ -1,0 +1,8 @@
+{
+  "name": "MICSA SIGO - Sistema Integrado de Gestión Operativa",
+  "description": "A comprehensive industrial management system featuring project tracking, daily reports, risk analysis, ISO compliance, and advanced AI features like real-time voice assistance, image editing, and video generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
